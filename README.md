@@ -1,2 +1,5 @@
-# Algoritmo-Merge-Sort
-Segundo trabalho feito para a disciplina de Técnicas de Busca e Ordenação do IFNMG - MOC
+# Técnicas de Busca e Ordenação
+
+Fala eternos aprendizes, tudo bem?
+
+Criei esse repositorio para compartilhar com vocês como codifiquei os algoritmos de busca e ordenação da faculdade, utilizando a linguagem de programação C++;
